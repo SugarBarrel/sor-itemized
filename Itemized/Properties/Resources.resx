@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">text/microsoft-resx</resheader>
+  <resheader name="version">2.0</resheader>
+  <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms</resheader>
+  <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms</resheader>
+
+  <data name="template" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\template.png;System.Byte[], mscorlib</value>
+  </data>
+  <data name="CrepeHat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CrepeHat.png;System.Byte[], mscorlib</value>
+  </data>
+  <data name="BlahdHat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BlahdHat.png;System.Byte[], mscorlib</value>
+  </data>
+  <data name="JokeBook" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JokeBook.png;System.Byte[], mscorlib</value>
+  </data>
+  <data name="StickyHand" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\StickyHand.png;System.Byte[], mscorlib</value>
+  </data>
+  <data name="ToyHandcuffs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ToyHandcuffs.png;System.Byte[], mscorlib</value>
+  </data>
+  <data name="Hypnotizer3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hypnotizer3.png;System.Byte[], mscorlib</value>
+  </data>
+  <data name="VegetableJuice" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VegetableJuice.png;System.Byte[], mscorlib</value>
+  </data>
+</root>
